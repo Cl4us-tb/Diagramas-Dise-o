@@ -1,4 +1,4 @@
-# Diagramas-Dise-o
+# Diagramas-Diseno
 Codigo de los diagramas hechos en Structurizr
 workspace "Name" "Description" {
 
